@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+projets actuelle:
+ - "nohelm" templating engine pour kustomize local k8s cluster
+ 
+projets:
+ - SAE universitaire Plateforme vidéo pour un journaliste
+ - été 2025 Conception d’une application de gestion pour l'ESI de Nemours · Stage
+ - Nov. -> Fév. 2024 Mise en place de GLPI Agrophiviers · Alternance
+ - projet universitaire Application mobile Flutter
 
 
 ## 🌐 Socials:
